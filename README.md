@@ -13,8 +13,10 @@ Installation
 Clone the Repository
 
 bash
+
 Copy code
-git clone [https://github.com/theshehabdev/clearx-window-cleaning.git](https://github.com/theShehabDev/ClearX-React.Js-Website-With-Vite.git)
+git clone [https://github.com/theshehabdev/clearx-window-cleaning.git](https://github.com/theShehabDev/ClearX-React.Js-Website-With-Vite.git)  
+
 cd clearx-react.js-website-with-vite
 Install Dependencies
 
@@ -55,7 +57,8 @@ Copy code
 yarn build
 The build artifacts will be output to the dist directory.
 
-Inspiration
+Inspiration:
+
 This project was inspired by the following YouTube video:
 {https://www.youtube.com/watch?v=WbV3zRgpw_E}
 
