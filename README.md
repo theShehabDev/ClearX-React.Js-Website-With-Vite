@@ -15,46 +15,47 @@ Clone the Repository
 bash
 
 Copy code
-git clone [https://github.com/theshehabdev/clearx-window-cleaning.git](https://github.com/theShehabDev/ClearX-React.Js-Website-With-Vite.git)  
+``` git clone [https://github.com/theshehabdev/clearx-window-cleaning.git](https://github.com/theShehabDev/ClearX-React.Js-Website-With-Vite.git) ```
 
-cd clearx-react.js-website-with-vite
+``` cd clearx-react.js-website-with- ```
+
 Install Dependencies
 
 Using npm:
 
 bash
 Copy code
-npm install
+```npm install```
 Or using yarn:
 
 bash
 Copy code
-yarn install
+```yarn install```
 Run the Development Server
 
 Start the development server using Vite:
 
 bash
 Copy code
-npm run dev
+```npm run dev```
 Or with yarn:
 
 bash
 Copy code
-yarn dev
-Open your browser and navigate to http://localhost:3000 to see the application in action.
+```yarn dev```
+Open your browser and navigate to ```http://localhost:3000``` to see the application in action.
 
 Build for Production
 To build the project for production:
 
 bash
 Copy code
-npm run build
+```npm run build```
 Or with yarn:
 
 bash
 Copy code
-yarn build
+```yarn build```
 The build artifacts will be output to the dist directory.
 
 Inspiration:
@@ -68,9 +69,9 @@ Contributing
 If you’d like to contribute to this project, please follow these guidelines:
 
 Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/your-feature).
+Create a new branch (```git checkout -b feature/your-feature```).
+Commit your changes (```git commit -am 'Add new feature'```).
+Push to the branch (```git push origin feature/your-feature```).
 Open a Pull Request.
 License
 This project is licensed under the Apache license 2.0 - see the LICENSE file for details.
