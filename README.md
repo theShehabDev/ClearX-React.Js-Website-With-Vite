@@ -15,9 +15,9 @@ Clone the Repository
 bash
 
 Copy code
-``` git clone [https://github.com/theshehabdev/clearx-window-cleaning.git](https://github.com/theShehabDev/ClearX-React.Js-Website-With-Vite.git) ```
+``` git clone https://github.com/theShehabDev/ClearX-React.Js-Website-With-Vite.git ```
 
-``` cd clearx-react.js-website-with- ```
+``` cd clearx-react.js-website-with-vite ```
 
 Install Dependencies
 
