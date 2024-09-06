@@ -56,7 +56,7 @@ Or with yarn:
 bash
 Copy code
 ```yarn build```
-The build artifacts will be output to the dist directory.
+The build artifacts will be output to the ```dist``` directory.
 
 Inspiration:
 
